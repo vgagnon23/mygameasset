@@ -1,0 +1,2 @@
+# mygameasset
+game asset
